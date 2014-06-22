@@ -40,7 +40,6 @@ fBodyGyroJerkMag
 Several  variables that were estimated from these signals.  The ones we used in our analysis are: <br>
 -mean(): Mean value<br>
 -std(): Standard deviation<br>
-<br>
 The activity column of our tidy data provides which of the 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) was performed.<br>
 The subject column provides who performed the activity out of the 30 subjects (denoted by a number 1 to 30).
 ####Our tidy data set contains the calculated mean for all the variables described above.
