@@ -39,9 +39,9 @@ fBodyAccJerkMag<br>
 fBodyGyroMag<br>
 fBodyGyroJerkMag
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several  variables that were estimated from these signals.  The ones we used in our analysis are: <br>
+Several  variables that were estimated from these signals.  The ones we used in our analysis are: <br>
 -mean(): Mean value<br>
 -std(): Standard deviation<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The activity column of our tidy data provides which of the 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) was performed.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subject column provides who performed the activity out of the 30 subjects (denoted by a number 1 to 30).
+The activity column of our tidy data provides which of the 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) was performed.<br>
+The subject column provides who performed the activity out of the 30 subjects (denoted by a number 1 to 30).
 ####Our tidy data set contains the calculated mean for all the variables described above.
