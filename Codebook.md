@@ -1,10 +1,13 @@
 #Codebook
 
-Download the dataset from this link: 
+Download the dataset from this link:
+<br>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+<br>
 Consult the README file to understand the experiment and data obtained from the experiment.
 <br>
-A full description is available at the site where the data was obtained: 
+A full description is available at the site where the data was obtained:
+<br>
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 (Taken from the features_info provided in the downloaded data set)
@@ -36,9 +39,9 @@ fBodyAccJerkMag<br>
 fBodyGyroMag<br>
 fBodyGyroJerkMag
 
-Several  variables that were estimated from these signals.  The ones we used in our analysis are: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several  variables that were estimated from these signals.  The ones we used in our analysis are: <br>
 -mean(): Mean value<br>
 -std(): Standard deviation<br>
-The activity column of our tidy data provides which of the 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) was performed.<br>
-The subject column provides who performed the activity out of the 30 subjects (denoted by a number 1 to 30).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The activity column of our tidy data provides which of the 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) was performed.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subject column provides who performed the activity out of the 30 subjects (denoted by a number 1 to 30).
 ####Our tidy data set contains the calculated mean for all the variables described above.
